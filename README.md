@@ -4,5 +4,7 @@ This Python program asks the user for their name, then returns a greeting. It th
 
 Individuals can contribute to this code by forking this repository and creating their own directory. After creating their own directory, they can commit their files and open a pull request to be approved to allow the contribution.
 
+Software is licensed through the University of Pittsburgh.
+
 Group Members:
 Patrick McKeever and Dailynn Tejeda
